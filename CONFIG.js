@@ -6,5 +6,5 @@ const CONFIGDATA = {
   buttonNo: "Không đồng ý",
   titleModar: "Cảm ơn bé iu nhìu nhaaa.",
   descriptionModar:
-    "Cảm ơn em đã cho anh một cơ hội để tớ có thể ở bên cạnh, che chở và bảo vệ cho em. </br> Anh biết anh không được tốt và cũng chẳng tâm lý chút nào nhưng anh có một trái tim chân thành và không ngừng yêu em luôn luôn là như vậy. Em chính là một thế giới nhỏ của anh. </br> Hôm nay Valentine anh chúc bé luôn vui vẻ nha. Em mặc thật đẹp vào nhé! Sẽ có một bất ngờ dành cho em.</br> Love you <3",
+    "Cảm ơn em đã cho anh một cơ hội để tớ có thể ở bên cạnh, che chở và bảo vệ cho em. </br> Anh biết anh không được tốt và cũng chẳng tâm lý chút nào nhưng anh có một trái tim chân thành và không ngừng yêu em và sẽ luôn luôn là như vậy. Em chính là một thế giới nhỏ của anh. </br> Hôm nay Valentine anh chúc bé luôn vui vẻ nha. Em mặc thật đẹp vào nhé! Sẽ có một bất ngờ dành cho em.</br> Love you <3",
 };
