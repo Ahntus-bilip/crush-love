@@ -1,7 +1,7 @@
 const CONFIGDATA = {
-  titleHeader: "Chào bé iu, anh bé có điều muốn nói. </br> Em là người con gái trên cả tuyệt vời nhất với anh!",
+  titleHeader: "Chào em bé NOAN iu dấu của anh, anh bé AHNTUS của em có điều muốn nói. </br> Em là người con gái trên cả tuyệt vời nhất với anh và anh thật sự yêu em nhiều ơi là nhiềuuuu lun !",
   descriptionHeader:
-    "Hãy ghi nhớ những điều anh nói một cách thật lòng nhé. Nếu em im lặng và rời đi thì tức là em đã ĐỒNG Ý.",
+    "Hãy ghi nhớ và lắng nghe những điều anh nói một cách thật lòng nhé. Nếu em im lặng và rời đi thì tức là em đã ĐỒNG Ý (nói vậy thôi chứ em chỉ có thể đồng ý thôi à).",
   buttonYes: "Em đồng ý",
   buttonNo: "Không đồng ý",
   titleModar: "Cảm ơn bé iu nhìu nhaaa.",
